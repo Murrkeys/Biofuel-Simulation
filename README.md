@@ -1,6 +1,6 @@
 # Biofuel-Simulation
 
-Project aims to create a simulation model of a biofuel production system.  The simulation is created using different design parameters.  Once the simulation is complete, the performance of the system is evaluated and the design parameters are chosen that maximize the amount of biofuel created. 
+Project aims to create a simulation model of a biofuel production system.  The simulation is created using different design parameters.  Once the simulation is complete, the performance of the system is evaluated and the design parameters are chosen that maximize the amount of biofuel created. Project was completed as coursework for Masters of Health Data Science at University of New South Wales.
 
 Scripts included : 
 
